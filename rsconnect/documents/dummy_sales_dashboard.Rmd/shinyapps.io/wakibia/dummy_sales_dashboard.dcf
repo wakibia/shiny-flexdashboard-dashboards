@@ -1,0 +1,12 @@
+name: dummy_sales_dashboard
+title: dummy_sales_dashboard
+username: wakibia
+account: wakibia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9488330
+bundleId: 7481953
+url: https://wakibia.shinyapps.io/dummy_sales_dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
